@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Agustín Del Torto",
+	"description": "For the FCC API and Microservices course",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
